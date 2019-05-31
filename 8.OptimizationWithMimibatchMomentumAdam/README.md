@@ -1,0 +1,2 @@
+# OptimizationWithMimibatchMomentumAdam
+分别比较batch、minibatch和Stochastic的GD以及用momentum、Adam进行梯度优化
